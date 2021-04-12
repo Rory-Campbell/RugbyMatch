@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://rory123:rory123@rugbymatch.dkzrj.mongodb.net/rugbymatch?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "CLOUD_NAME": "do8rgqlij",
+  "CLOUDINARY_API_KEY": "396754756983648",
+  "CLOUDINARY_API_SECRET": "7Cy6CZN1xIQpJPAqbj9IMDSXtWM"
+}
